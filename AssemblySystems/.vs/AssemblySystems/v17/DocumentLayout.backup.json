@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\238878\\AssemblySystems\\",
+  "WorkspaceRootPath": "D:\\assembly\\AssemblySystems\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D42482A-2B06-40EB-939D-D395AED302D4}|AssemblySystems.vcxproj|D:\\238878\\AssemblySystems\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{6D42482A-2B06-40EB-939D-D395AED302D4}|AssemblySystems.vcxproj|D:\\assembly\\AssemblySystems\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{6D42482A-2B06-40EB-939D-D395AED302D4}|AssemblySystems.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.asm",
-              "DocumentMoniker": "D:\\238878\\AssemblySystems\\main.asm",
+              "DocumentMoniker": "D:\\assembly\\AssemblySystems\\main.asm",
               "RelativeDocumentMoniker": "main.asm",
-              "ToolTip": "D:\\238878\\AssemblySystems\\main.asm",
+              "ToolTip": "D:\\assembly\\AssemblySystems\\main.asm",
               "RelativeToolTip": "main.asm",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-11-06T09:26:36.716Z",
               "EditorCaption": ""

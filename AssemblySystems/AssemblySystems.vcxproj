@@ -20,7 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <MASM Include="main.asm">
-      <IncludePaths Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\238878\Irvine-library\Irvine\irvine;%(IncludePaths)</IncludePaths>
+      <IncludePaths Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\irvine;%(IncludePaths)</IncludePaths>
     </MASM>
   </ItemGroup>
   <PropertyGroup Label="Globals">
@@ -86,7 +86,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>D:\238878\Irvine-library\Irvine\irvine</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>D:\irvine</AdditionalLibraryDirectories>
       <AdditionalDependencies>Irvine32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
